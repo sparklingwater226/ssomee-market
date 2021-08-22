@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "somee-market",
+    "slug": "somee-market",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "somee-market"
+}
